@@ -2,10 +2,17 @@
 
 ## Usage
 
-''' bash
-npm i express cors openai dotenv 
-'''
+Install library for API
 
-'''bash
+```bash
+npm express cors dotenv openai
+```
+
+Run API on server
+
+```bash
 node .\index.js
-'''
+```
+
+##Donate 
+MOMO: 0396084000
