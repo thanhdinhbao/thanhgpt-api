@@ -8,6 +8,8 @@ Install library for API
 npm express cors dotenv openai
 ```
 
+Change your API Key in .env
+
 Run API on server
 
 ```bash
